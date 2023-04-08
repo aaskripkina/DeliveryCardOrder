@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/sidlvwcmrf8j7tbi/branch/main?svg=true)](https://ci.appveyor.com/project/aaskripkina/deliverycardorder/branch/main)
